@@ -1,5 +1,10 @@
 Data
 
-Data collected will be places to drink coffee, food and nightlife. This data will be collected from FourSquare 
-Word map of most common words
-Count of most common words used to predict rating
+Data collected will be places to drink coffee, food and nightlife. This data will be collected from FourSquare and placed on a map of the relevant cvities. A count of each coffee shop, resturant and night club will be made and displayed as two bar charts for visual comparison.
+The tips for each coffee shop will be pulled from FourSquare and a count of most common words used to predict rating.
+Data will be displayed as
+1. Word cloud of most common words
+2. Bar chart
+
+Data will be analysed with linear regression for prediction of word in relation to rating.
+
